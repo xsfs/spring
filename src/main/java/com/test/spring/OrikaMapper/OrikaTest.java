@@ -1,7 +1,7 @@
-package com.test.spring;
+package com.test.spring.OrikaMapper;
 
-import com.test.spring.model.UserBO;
-import com.test.spring.model.UserDTO;
+import com.test.spring.OrikaMapper.model.UserBO;
+import com.test.spring.OrikaMapper.model.UserDTO;
 import ma.glasnost.orika.MapperFactory;
 import ma.glasnost.orika.impl.DefaultMapperFactory;
 

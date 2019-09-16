@@ -1,4 +1,4 @@
-package com.test.spring.model;
+package com.test.spring.OrikaMapper.model;
 
 import lombok.Data;
 
